@@ -1,0 +1,10 @@
+export { default as Login } from "./Login";
+export { default as Header } from "./Header";
+export { default as Home } from "./Home";
+export { default as ImgSlider } from "./ImgSlider";
+export { default as Viewers } from "./Viewers";
+export { default as Recommend } from "./Recommend";
+export { default as NewDisney } from "./NewDisney";
+export { default as Originals } from "./Originals";
+export { default as Trending } from "./Trending";
+export { default as Details } from "./Details";
